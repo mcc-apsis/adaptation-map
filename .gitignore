@@ -1,0 +1,4 @@
+citation_data/
+doctables/
+.ipynb_checkpoints/*
+__pycache__/*
